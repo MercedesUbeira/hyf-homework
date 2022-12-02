@@ -12,3 +12,4 @@ else if (degrees <= -6) {return "OMG is that Santa Claus outside?"}
 else {return "Error."}}
 
 console.log(clothesToWear(15));
+
