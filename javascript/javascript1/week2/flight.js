@@ -8,7 +8,7 @@ function getFullName(firstname, surname) {
 
 getFullName (firstname, surname);
 
-let fullname1= "Juan Ubeira";
+let fullname1= "Emiliano Ubeira";
 let fullname2= " Lionel Messi";
 
 getFullName (fullname1 , fullname2);
