@@ -10,7 +10,7 @@ const housePeter = {
   houseCosts: 2500000,
 
   housePriceCalculation: function () {
-    let volumeInMeters = this.width * this.depth * this.heigth;
+    const volumeInMeters = this.width * this.depth * this.heigth;
     const housePrice = volumeInMeters * 2.5 * 1000 + this.gardenSizeInM2 * 300;
     return housePrice;
   },
