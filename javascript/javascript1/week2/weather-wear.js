@@ -1,6 +1,6 @@
 //weather
 
-const degrees= 20
+const degrees= 18
 
 const clothesToWear= function whatToWear () {
   if (degrees >= 20) {return "Wear something light. It's super warm outside! And don't forget the sunscreen"}
