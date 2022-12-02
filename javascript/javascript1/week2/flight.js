@@ -1,14 +1,14 @@
 //Flight 
-const firstname= "Mercedes"
+const firstname= "Mercedes "
 const surname= "Ubeira"
 
 function getFullName(firstname, surname) {
   console.log (firstname + surname);
 }
 
-getFullName (firstname,surname);
+getFullName (firstname, surname);
 
-let fullname1= "Juan Perez";
+let fullname1= "Juan Ubeira";
 let fullname2= " Lionel Messi";
 
 getFullName (fullname1 , fullname2);
