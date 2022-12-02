@@ -1,9 +1,9 @@
 const class07Students = ["Mechi", "Dima", "Tigran", "Raman"];
 
 const queenAlwaysIn= "Queen Margrethe II"
-addStudentToClass("Rene");
-addStudentToClass("Julia");
 addStudentToClass("Younes");
+addStudentToClass("Julia");
+addStudentToClass("Rene");
 
 
 function addStudentToClass(studentName) {
